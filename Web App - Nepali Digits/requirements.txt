@@ -1,0 +1,7 @@
+Flask
+Keras
+numpy
+tensorflow
+Pillow
+h5py
+opencv-python
