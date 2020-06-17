@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
 from keras.models import model_from_json
-import re, os, base64, cv2, numpy as np
-from PIL import Image
+import re, base64, cv2, numpy as np
 
 app = Flask(__name__)
 
