@@ -1,3 +1,6 @@
 # Nepali OCR
 
-Datasets: https://github.com/kcnishan/Nepali_handwritten_digits_recognition
+Output: https://github.com/ranabhatshree/Nepali-OCR/blob/master/output.gif
+
+Datasets Credit: kcnishan
+
